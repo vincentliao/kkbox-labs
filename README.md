@@ -18,7 +18,8 @@
 * 建立好的 Jenkins 連結: http://xxx.xxx.xxx.xxx:8080/
 * 將設計好的自動化測試，以 `auto-test` Job 來定期執行，參考畫面: 
     
-    ![Imgur](https://i.imgur.com/zy5E2E5.png)
+    ![Imgur](https://i.imgur.com/IHOlBOf.png)
+
 * `auto-test` 設置的內容:
     每小時執行一次:
     
